@@ -1,4 +1,6 @@
 # Customer Churn Prediction 
+
+![Title](https://github.com/ufuksecilmis/CustomerChurn_with_XGBoost/assets/51096261/65966cab-b18c-40d4-8006-775e1f2fd78b)
  
 Customer churn refers to the percentage of customers who have ceased purchasing a business's products or services within a specific time frame. Given the substantial cost associated with acquiring new customers, companies are naturally inclined to retain their existing ones. Consequently, the ability to predict whether a customer is likely to leave or remain is of paramount importance for companies.
 
