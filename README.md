@@ -18,7 +18,7 @@ Customer churn refers to the percentage of customers who have ceased purchasing 
 # Dataset
 Telco Customer Churn
 
-# Data Description
+## Data Description
 
 7043 observations with 19 variables
 
