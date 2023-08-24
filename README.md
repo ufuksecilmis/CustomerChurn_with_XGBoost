@@ -64,7 +64,7 @@ Monthly Charge: Indicates the customer’s current total monthly charge for all 
 
 Total Charges: Indicates the customer’s total charges, calculated to the end of the quarter specified above.
 
-Churn Label: Yes = the customer left the company this quarter. No = the customer remained with the company. Directly related to Churn Value.
+Churn Label: Yes = the customer left the company this quarter. No = the customer remained with the company.
 
 
 # Model Results
