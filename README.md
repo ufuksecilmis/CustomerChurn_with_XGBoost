@@ -79,5 +79,13 @@ Churn Label: Yes = the customer left the company this quarter. No = the customer
 
 # Model Interpretation
 
+**The waterfall plot indicates that when a customer does not have a month-to-month contract, the logarithm of odds of churn decreases by 0.25. Moreover, customers who have a longer tenure with the company  are less likely to churn.**
+![Waterfall_1](https://github.com/ufuksecilmis/CustomerChurn_with_XGBoost/assets/51096261/6b8fc6fc-8b58-4517-9a71-c4d4e18f699c)
+
+**As observed, the "contract_month-to-month" option has the most significant impact. This is logical because if a customer renews their contract on a monthly basis, they are more likely to switch to a different carrier in the following month.**
+![MEAN_SHAP](https://github.com/ufuksecilmis/CustomerChurn_with_XGBoost/assets/51096261/65ee7299-7f05-478e-9c16-51bed40543d3)
+![BeeSwarm](https://github.com/ufuksecilmis/CustomerChurn_with_XGBoost/assets/51096261/9d747f0d-868d-49cf-8548-a29a7ff94a23)
+
+
 
 
