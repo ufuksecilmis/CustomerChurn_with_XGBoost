@@ -4,9 +4,9 @@ Customer churn refers to the percentage of customers who have ceased purchasing 
 
 # Steps
 
-  ##1.Conduct Exploratory Data Analysis using pandas-profiling.
-  ##2.Perform Data Preprocessing, including imputation and one-hot encoding.
-  ##3.Build an XGBoost Model.
-  ##4.Construct a LightGBM Model.
-  ##5.Select the Best Model through Cross-Validation and ROC-AUC analysis. As recall metric is very important for this case, the model gives highest recall is chosen.
-  ##6.Utilize SHAP for Model Interpretation.
+  ## 1.Conduct Exploratory Data Analysis using pandas-profiling.
+  ## 2.Perform Data Preprocessing, including imputation and one-hot encoding.
+  ## 3.Build an XGBoost Model.
+  ## 4.Construct a LightGBM Model.
+  ## 5.Select the Best Model through Cross-Validation and ROC-AUC analysis. As recall metric is very important for this case, the model gives highest recall is chosen.
+  ## 6.Utilize SHAP for Model Interpretation.
