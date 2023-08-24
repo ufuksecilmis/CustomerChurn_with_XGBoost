@@ -84,6 +84,7 @@ Churn Label: Yes = the customer left the company this quarter. No = the customer
 
 **As observed, the "contract_month-to-month" option has the most significant impact. This is logical because if a customer renews their contract on a monthly basis, they are more likely to switch to a different carrier in the following month.**
 ![MEAN_SHAP](https://github.com/ufuksecilmis/CustomerChurn_with_XGBoost/assets/51096261/65ee7299-7f05-478e-9c16-51bed40543d3)
+
 ![BeeSwarm](https://github.com/ufuksecilmis/CustomerChurn_with_XGBoost/assets/51096261/9d747f0d-868d-49cf-8548-a29a7ff94a23)
 
 
