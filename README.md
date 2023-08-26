@@ -92,5 +92,10 @@ Churn Label: Yes = the customer left the company this quarter. No = the customer
 ![BeeSwarm](https://github.com/ufuksecilmis/CustomerChurn_with_XGBoost/assets/51096261/9d747f0d-868d-49cf-8548-a29a7ff94a23)
 
 
+# Further Improvements
+
+1. Different prediction thresholds other than 0.5 can be applied. Decreasing the prediction threshold is advisable to decrease False Negatives. However, if the business can accept a higher number of False Positives, then reducing the prediction threshold might be considered.
+
+2. An ML app can be developed using either Streamlit or Flask.
 
 
