@@ -71,6 +71,15 @@ Churn Label: Yes = the customer left the company this quarter. No = the customer
 
 ![Churn-Target Variable-Pie Chart](https://github.com/ufuksecilmis/Customer_Churn_Prediction/assets/51096261/25998055-45b9-406a-bc72-247b552a4f7d)
 
+**This is an imbalanced dataset.**
+
+![EDA_1](https://github.com/ufuksecilmis/Customer_Churn_Prediction/assets/51096261/62451bfc-18c9-4dd2-9f74-76e30c8c73ec)
+![EDA_2](https://github.com/ufuksecilmis/Customer_Churn_Prediction/assets/51096261/c8cbf078-8912-4262-9776-e3e379721b53)
+![EDA_3](https://github.com/ufuksecilmis/Customer_Churn_Prediction/assets/51096261/1f199d5b-44d8-4edd-8686-82a774c5d32c)
+![EDA_4](https://github.com/ufuksecilmis/Customer_Churn_Prediction/assets/51096261/7c907e85-16b6-41e1-9a58-1c1b7c8e363d)
+![EDA_5](https://github.com/ufuksecilmis/Customer_Churn_Prediction/assets/51096261/b9f7a9c0-553c-4e89-b6f3-1079e5ba4bf5)
+
+
 
 
 # Model Results
