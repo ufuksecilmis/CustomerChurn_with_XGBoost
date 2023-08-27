@@ -67,6 +67,12 @@ Total Charges: Indicates the customer’s total charges, calculated to the end o
 Churn Label: Yes = the customer left the company this quarter. No = the customer remained with the company.
 
 
+# Explanatory Data Analysis using Tableau
+
+![Churn-Target Variable-Pie Chart](https://github.com/ufuksecilmis/Customer_Churn_Prediction/assets/51096261/25998055-45b9-406a-bc72-247b552a4f7d)
+
+
+
 # Model Results
 
 ![Model_Results](https://github.com/ufuksecilmis/CustomerChurn_with_XGBoost/assets/51096261/244fc6fc-2efe-44f1-aedf-3f504af8a5f4)
